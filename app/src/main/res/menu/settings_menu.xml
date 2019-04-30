@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itemCount2"
+        android:title="Count By 2"/>
+
+    <item android:id="@+id/itemCount5"
+        android:title="Count By 5"/>
+
+    <item android:id="@+id/itemCount10"
+        android:title="Count By 10"/>
+</menu>
